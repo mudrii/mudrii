@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## My Github Stats 👨🏾‍💻:
 
-[![Github Stats By mudrii](https://github-readme-stats.vercel.app/api?username=mudrii&show_icons=true&theme=tokyonight&line_height=36&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By mudrii](https://github-readme-stats-rho.vercel.app/api?username=mudrii&show_icons=true&theme=tokyonight&line_height=36&hide=stars,prs))](https://github.com/anuraghazra/github-readme-stats)
