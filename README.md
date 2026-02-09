@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Platform/Infrastructure Engineer at [Datafusion.ai](https://github.com/mudrii) based in EU.
+I'm a Tech Lead and AI Engineer [Profile](https://github.com/mudrii)
 
 - 🔭 Currently working on cloud infrastructure, NixOS configs, and ML tooling
 - 🛠️ Building with Go, Nix, Terraform, TypeScript, and Python
