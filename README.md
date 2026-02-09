@@ -1,20 +1,16 @@
 ### Hi there 👋
 
-<!--
-**mudrii/mudrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Platform/Infrastructure Engineer at [Datafusion.ai](https://github.com/mudrii) based in EU.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on cloud infrastructure, NixOS configs, and ML tooling
+- 🛠️ Building with Go, Nix, Terraform, TypeScript, and Python
+- 🌱 Exploring MLX, LLMs, and Apple Silicon ML workflows
+- 💬 Ask me about Nix, Kubernetes, GCP, AWS, or infrastructure automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github Stats
 
-## My Github Stats 👨🏾‍💻:
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=mudrii&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github Stats By mudrii](https://github-readme-stats-rho.vercel.app/api?username=mudrii&show_icons=true&theme=tokyonight&line_height=36&hide=stars,prs))](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mudrii&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudrii&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook,ruby)](https://github.com/anuraghazra/github-readme-stats)
