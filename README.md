@@ -2,10 +2,10 @@
 
 I'm a CTO and AI Engineering Lead [Profile](https://github.com/mudrii)
 
-- 🔭 Currently working on OpenClaw, cloud infrastructure, NixOS configs, and ML tooling
-- 🛠️ Building with Go, Nix, Terraform, TypeScript, and Python
+- 🔭 Currently working on OpenClaw, Agenti AI, Cloud Infras IaC, NixOS, and ML tooling etc.
+- 🛠️ Building with Go, Python, Nix, Terraform, TypeScript, and Rust
 - 🌱 Exploring MLX, LLMs, and Apple Silicon ML workflows, Agentic AI, Context Engineering
-- 💬 Ask me about Nix, Agentic AI, OpenClaw, ASR/STT, Kubernetes, GCP, AWS, or infrastructure automation
+- 💬 Ask me about OpneClaw, Agentic AI, Nix, ASR/STT, Kubernetes, GCP, AWS, or any Infrastructure Automation, Team Engineering, or AI Engineering topics
 
 ## My Github Stats
 
